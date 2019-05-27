@@ -1,2 +1,2 @@
 # ML-Project
-This is the project of my ML learning Step by step Progress
+This is a demo project of my ML learning ,trying to implemnt the sklearn,Pandas,numpy .
